@@ -1,2 +1,3 @@
 # Creating a personal website
-# running in github
+### 1. Vue is used to create the personal website.
+
