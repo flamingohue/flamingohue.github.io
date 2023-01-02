@@ -1,0 +1,8 @@
+process.env.NODE_ENV// vue.config.js
+module.exports = {
+publicPath: ‘/flamingohue.github.io/’,
+head: [
+    ['link', { rel: "icon", href: "/assets/favicon.ico"}],
+    ['link', { rel: "icon", type: "image/png", href: "./assets/favicon.png"}],
+  ],
+}
